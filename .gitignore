@@ -45,3 +45,5 @@ coverage/
 # Temp
 /tmp
 /temp
+example/pubspec.lock
+example/pubspec.lock
